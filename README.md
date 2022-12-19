@@ -1,5 +1,7 @@
 Website URL = https://linkedin-clone-react-23173.web.app/
 
+How to login u need fill the sign in form then click register after that you can sign in with registered email and pass
+
 
 # Getting Started with Create React App and Redux
 
